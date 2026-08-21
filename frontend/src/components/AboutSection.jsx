@@ -24,16 +24,16 @@ export default function AboutSection({ theme }) {
       initials: 'PR',
       avatarBg: 'bg-blue-600',
       tagColor: isDark ? 'bg-blue-500/15 border-blue-500/30 text-blue-400' : 'bg-blue-50 border-blue-200 text-blue-700',
-      description: 'Overall system architecture, slider-crank physics engine, UI/UX design, dynamic balancer and full project coordination.'
+      description: ''
     },
     {
-      name: 'Patel Niraliben',
+      name: 'Patel Nirali',
       role: 'Kinematics & Mathematical Modeling',
       isLead: false,
       initials: 'PN',
       avatarBg: 'bg-emerald-600',
       tagColor: isDark ? 'bg-emerald-500/15 border-emerald-500/30 text-emerald-400' : 'bg-emerald-50 border-emerald-200 text-emerald-700',
-      description: 'Trigonometric formulations, displacement and velocity analytical equations derivation, and kinematic verification.'
+      description: ''
     },
     {
       name: 'Modi Vraj',
@@ -42,7 +42,7 @@ export default function AboutSection({ theme }) {
       initials: 'MV',
       avatarBg: 'bg-purple-600',
       tagColor: isDark ? 'bg-purple-500/15 border-purple-500/30 text-purple-400' : 'bg-purple-50 border-purple-200 text-purple-700',
-      description: 'Piston acceleration harmonics, inertia force equilibrium modeling, and 2D canvas physics simulation integration.'
+      description: ''
     },
     {
       name: 'Panchal Pinank',
@@ -51,7 +51,7 @@ export default function AboutSection({ theme }) {
       initials: 'PP',
       avatarBg: 'bg-amber-600',
       tagColor: isDark ? 'bg-amber-500/15 border-amber-500/30 text-amber-400' : 'bg-amber-50 border-amber-200 text-amber-700',
-      description: 'Degree-by-degree tabular dataset computations, automated Excel workbook exporter, and empirical engine benchmarking.'
+      description: ''
     }
   ];
 
