@@ -275,7 +275,7 @@ export default function App() {
             <span>Slider-Crank Dynamics & Balancer</span>
           </div>
           <div>
-            Project Architect: <strong className={isDark ? 'text-slate-200' : 'text-slate-800'}>Rahul Parmar</strong>
+            Team: <strong className={isDark ? 'text-slate-200' : 'text-slate-800'}>Parmar Rahul (Lead)</strong>, Patel Niraliben, Modi Vraj, Panchal Pinank
           </div>
         </div>
       </footer>

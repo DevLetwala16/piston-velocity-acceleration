@@ -207,7 +207,7 @@ export default function Navbar({
           
           <div className="pt-2 border-t mt-2 flex items-center justify-between">
             <span className={`text-xs ${isDark ? 'text-slate-400' : 'text-slate-500'}`}>
-              Author: <strong>Rahul Parmar</strong>
+              Team: <strong>Parmar Rahul (Lead)</strong> &amp; Co.
             </span>
             <button
               onClick={onExportExcel}
